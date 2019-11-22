@@ -1,0 +1,6 @@
+C:\Users\SeBo-\source\repos\Thread_Multithread\parametreli_thread\bin\Debug\parametreli_thread.exe.config
+C:\Users\SeBo-\source\repos\Thread_Multithread\parametreli_thread\bin\Debug\parametreli_thread.exe
+C:\Users\SeBo-\source\repos\Thread_Multithread\parametreli_thread\bin\Debug\parametreli_thread.pdb
+C:\Users\SeBo-\source\repos\Thread_Multithread\parametreli_thread\obj\Debug\parametreli_thread.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\Thread_Multithread\parametreli_thread\obj\Debug\parametreli_thread.exe
+C:\Users\SeBo-\source\repos\Thread_Multithread\parametreli_thread\obj\Debug\parametreli_thread.pdb

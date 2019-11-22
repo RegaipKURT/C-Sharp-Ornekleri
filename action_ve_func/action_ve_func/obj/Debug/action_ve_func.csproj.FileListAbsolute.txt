@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\action_ve_func\action_ve_func\bin\Debug\action_ve_func.exe.config
+C:\Users\SeBo-\source\repos\action_ve_func\action_ve_func\bin\Debug\action_ve_func.exe
+C:\Users\SeBo-\source\repos\action_ve_func\action_ve_func\bin\Debug\action_ve_func.pdb
+C:\Users\SeBo-\source\repos\action_ve_func\action_ve_func\obj\Debug\action_ve_func.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\action_ve_func\action_ve_func\obj\Debug\action_ve_func.exe
+C:\Users\SeBo-\source\repos\action_ve_func\action_ve_func\obj\Debug\action_ve_func.pdb
+C:\Users\SeBo-\source\repos\action_ve_func\action_ve_func\obj\Debug\action_ve_func.csprojAssemblyReference.cache

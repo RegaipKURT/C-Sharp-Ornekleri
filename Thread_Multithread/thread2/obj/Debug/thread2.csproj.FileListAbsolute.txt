@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\Thread_Multithread\thread2\bin\Debug\thread2.exe.config
+C:\Users\SeBo-\source\repos\Thread_Multithread\thread2\bin\Debug\thread2.exe
+C:\Users\SeBo-\source\repos\Thread_Multithread\thread2\bin\Debug\thread2.pdb
+C:\Users\SeBo-\source\repos\Thread_Multithread\thread2\obj\Debug\thread2.csprojAssemblyReference.cache
+C:\Users\SeBo-\source\repos\Thread_Multithread\thread2\obj\Debug\thread2.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\Thread_Multithread\thread2\obj\Debug\thread2.exe
+C:\Users\SeBo-\source\repos\Thread_Multithread\thread2\obj\Debug\thread2.pdb

@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\Thread_Multithread\background_thread\bin\Debug\background_thread.exe.config
+C:\Users\SeBo-\source\repos\Thread_Multithread\background_thread\bin\Debug\background_thread.exe
+C:\Users\SeBo-\source\repos\Thread_Multithread\background_thread\bin\Debug\background_thread.pdb
+C:\Users\SeBo-\source\repos\Thread_Multithread\background_thread\obj\Debug\background_thread.csprojAssemblyReference.cache
+C:\Users\SeBo-\source\repos\Thread_Multithread\background_thread\obj\Debug\background_thread.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\Thread_Multithread\background_thread\obj\Debug\background_thread.exe
+C:\Users\SeBo-\source\repos\Thread_Multithread\background_thread\obj\Debug\background_thread.pdb

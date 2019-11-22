@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "action_ve_func", "action_ve_func\action_ve_func.csproj", "{D5770478-6384-40BA-BA17-F959678B93CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5770478-6384-40BA-BA17-F959678B93CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5770478-6384-40BA-BA17-F959678B93CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5770478-6384-40BA-BA17-F959678B93CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5770478-6384-40BA-BA17-F959678B93CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68165B36-7B3E-4266-BF01-87B9B0FCAB18}
+	EndGlobalSection
+EndGlobal

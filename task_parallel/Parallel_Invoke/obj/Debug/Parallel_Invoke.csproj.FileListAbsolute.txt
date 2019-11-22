@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\task_parallel\Parallel_Invoke\bin\Debug\Parallel_Invoke.exe.config
+C:\Users\SeBo-\source\repos\task_parallel\Parallel_Invoke\bin\Debug\Parallel_Invoke.exe
+C:\Users\SeBo-\source\repos\task_parallel\Parallel_Invoke\bin\Debug\Parallel_Invoke.pdb
+C:\Users\SeBo-\source\repos\task_parallel\Parallel_Invoke\obj\Debug\Parallel_Invoke.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\task_parallel\Parallel_Invoke\obj\Debug\Parallel_Invoke.exe
+C:\Users\SeBo-\source\repos\task_parallel\Parallel_Invoke\obj\Debug\Parallel_Invoke.pdb
+C:\Users\SeBo-\source\repos\task_parallel\Parallel_Invoke\obj\Debug\Parallel_Invoke.csprojAssemblyReference.cache

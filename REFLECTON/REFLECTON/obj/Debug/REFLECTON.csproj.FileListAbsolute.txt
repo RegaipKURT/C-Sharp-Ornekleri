@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\REFLECTON\REFLECTON\bin\Debug\REFLECTON.exe.config
+C:\Users\SeBo-\source\repos\REFLECTON\REFLECTON\bin\Debug\REFLECTON.exe
+C:\Users\SeBo-\source\repos\REFLECTON\REFLECTON\bin\Debug\REFLECTON.pdb
+C:\Users\SeBo-\source\repos\REFLECTON\REFLECTON\obj\Debug\REFLECTON.csprojAssemblyReference.cache
+C:\Users\SeBo-\source\repos\REFLECTON\REFLECTON\obj\Debug\REFLECTON.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\REFLECTON\REFLECTON\obj\Debug\REFLECTON.exe
+C:\Users\SeBo-\source\repos\REFLECTON\REFLECTON\obj\Debug\REFLECTON.pdb

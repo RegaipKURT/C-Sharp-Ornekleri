@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\task_parallel\task_parallel_library\bin\Debug\task_parallel_library.exe.config
+C:\Users\SeBo-\source\repos\task_parallel\task_parallel_library\bin\Debug\task_parallel_library.exe
+C:\Users\SeBo-\source\repos\task_parallel\task_parallel_library\bin\Debug\task_parallel_library.pdb
+C:\Users\SeBo-\source\repos\task_parallel\task_parallel_library\obj\Debug\task_parallel_library.csprojAssemblyReference.cache
+C:\Users\SeBo-\source\repos\task_parallel\task_parallel_library\obj\Debug\task_parallel_library.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\task_parallel\task_parallel_library\obj\Debug\task_parallel_library.exe
+C:\Users\SeBo-\source\repos\task_parallel\task_parallel_library\obj\Debug\task_parallel_library.pdb

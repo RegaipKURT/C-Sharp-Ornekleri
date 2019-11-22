@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\algoritmalar\Word_Count\bin\Debug\Word_Count.exe.config
+C:\Users\SeBo-\source\repos\algoritmalar\Word_Count\bin\Debug\Word_Count.exe
+C:\Users\SeBo-\source\repos\algoritmalar\Word_Count\bin\Debug\Word_Count.pdb
+C:\Users\SeBo-\source\repos\algoritmalar\Word_Count\obj\Debug\Word_Count.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\algoritmalar\Word_Count\obj\Debug\Word_Count.exe
+C:\Users\SeBo-\source\repos\algoritmalar\Word_Count\obj\Debug\Word_Count.pdb
+C:\Users\SeBo-\source\repos\algoritmalar\Word_Count\obj\Debug\Word_Count.csprojAssemblyReference.cache

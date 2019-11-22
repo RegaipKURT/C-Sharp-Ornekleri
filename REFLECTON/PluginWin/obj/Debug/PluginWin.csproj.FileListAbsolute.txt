@@ -1,0 +1,13 @@
+C:\Users\SeBo-\source\repos\REFLECTON\PluginWin\bin\Debug\PluginWin.exe.config
+C:\Users\SeBo-\source\repos\REFLECTON\PluginWin\bin\Debug\PluginWin.exe
+C:\Users\SeBo-\source\repos\REFLECTON\PluginWin\bin\Debug\PluginWin.pdb
+C:\Users\SeBo-\source\repos\REFLECTON\PluginWin\obj\Debug\PluginWin.csprojAssemblyReference.cache
+C:\Users\SeBo-\source\repos\REFLECTON\PluginWin\obj\Debug\PluginWin.Form1.resources
+C:\Users\SeBo-\source\repos\REFLECTON\PluginWin\obj\Debug\PluginWin.Properties.Resources.resources
+C:\Users\SeBo-\source\repos\REFLECTON\PluginWin\obj\Debug\PluginWin.csproj.GenerateResource.cache
+C:\Users\SeBo-\source\repos\REFLECTON\PluginWin\obj\Debug\PluginWin.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\REFLECTON\PluginWin\obj\Debug\PluginWin.exe
+C:\Users\SeBo-\source\repos\REFLECTON\PluginWin\obj\Debug\PluginWin.pdb
+C:\Users\SeBo-\source\repos\REFLECTON\PluginWin\bin\Debug\PluginClass.dll
+C:\Users\SeBo-\source\repos\REFLECTON\PluginWin\bin\Debug\PluginClass.pdb
+C:\Users\SeBo-\source\repos\REFLECTON\PluginWin\obj\Debug\PluginWin.csproj.CopyComplete

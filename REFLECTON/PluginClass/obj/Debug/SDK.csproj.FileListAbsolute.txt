@@ -1,0 +1,5 @@
+C:\Users\SeBo-\source\repos\REFLECTON\PluginClass\bin\Debug\PluginClass.dll
+C:\Users\SeBo-\source\repos\REFLECTON\PluginClass\bin\Debug\PluginClass.pdb
+C:\Users\SeBo-\source\repos\REFLECTON\PluginClass\obj\Debug\SDK.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\REFLECTON\PluginClass\obj\Debug\PluginClass.dll
+C:\Users\SeBo-\source\repos\REFLECTON\PluginClass\obj\Debug\PluginClass.pdb

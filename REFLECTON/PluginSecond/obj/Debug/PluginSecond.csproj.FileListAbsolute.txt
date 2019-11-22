@@ -1,0 +1,9 @@
+C:\Users\SeBo-\source\repos\REFLECTON\PluginSecond\bin\Debug\PluginSecond.dll
+C:\Users\SeBo-\source\repos\REFLECTON\PluginSecond\bin\Debug\PluginSecond.pdb
+C:\Users\SeBo-\source\repos\REFLECTON\PluginSecond\bin\Debug\PluginClass.dll
+C:\Users\SeBo-\source\repos\REFLECTON\PluginSecond\bin\Debug\PluginClass.pdb
+C:\Users\SeBo-\source\repos\REFLECTON\PluginSecond\obj\Debug\PluginSecond.csprojAssemblyReference.cache
+C:\Users\SeBo-\source\repos\REFLECTON\PluginSecond\obj\Debug\PluginSecond.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\REFLECTON\PluginSecond\obj\Debug\PluginSecond.csproj.CopyComplete
+C:\Users\SeBo-\source\repos\REFLECTON\PluginSecond\obj\Debug\PluginSecond.dll
+C:\Users\SeBo-\source\repos\REFLECTON\PluginSecond\obj\Debug\PluginSecond.pdb

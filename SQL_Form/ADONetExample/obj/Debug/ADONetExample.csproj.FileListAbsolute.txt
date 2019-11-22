@@ -1,0 +1,9 @@
+C:\Users\SeBo-\source\repos\Solution1\ADONetExample\obj\Debug\ADONetExample.csprojAssemblyReference.cache
+C:\Users\SeBo-\source\repos\Solution1\ADONetExample\obj\Debug\ADONetExample.Properties.Resources.resources
+C:\Users\SeBo-\source\repos\Solution1\ADONetExample\obj\Debug\ADONetExample.csproj.GenerateResource.cache
+C:\Users\SeBo-\source\repos\Solution1\ADONetExample\obj\Debug\ADONetExample.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\Solution1\ADONetExample\bin\Debug\ADONetExample.exe.config
+C:\Users\SeBo-\source\repos\Solution1\ADONetExample\bin\Debug\ADONetExample.exe
+C:\Users\SeBo-\source\repos\Solution1\ADONetExample\bin\Debug\ADONetExample.pdb
+C:\Users\SeBo-\source\repos\Solution1\ADONetExample\obj\Debug\ADONetExample.exe
+C:\Users\SeBo-\source\repos\Solution1\ADONetExample\obj\Debug\ADONetExample.pdb

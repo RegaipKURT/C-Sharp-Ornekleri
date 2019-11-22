@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\algoritmalar\anagram_kontrol\bin\Debug\anagram_kontrol.exe.config
+C:\Users\SeBo-\source\repos\algoritmalar\anagram_kontrol\bin\Debug\anagram_kontrol.exe
+C:\Users\SeBo-\source\repos\algoritmalar\anagram_kontrol\bin\Debug\anagram_kontrol.pdb
+C:\Users\SeBo-\source\repos\algoritmalar\anagram_kontrol\obj\Debug\anagram_kontrol.csprojAssemblyReference.cache
+C:\Users\SeBo-\source\repos\algoritmalar\anagram_kontrol\obj\Debug\anagram_kontrol.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\algoritmalar\anagram_kontrol\obj\Debug\anagram_kontrol.exe
+C:\Users\SeBo-\source\repos\algoritmalar\anagram_kontrol\obj\Debug\anagram_kontrol.pdb

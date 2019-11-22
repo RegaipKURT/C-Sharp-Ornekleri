@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegate_temsilci", "delegate_temsilci\delegate_temsilci.csproj", "{0A7FB5A3-CC7D-428E-921D-94C0242F3518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegate_form", "delegate_form\delegate_form.csproj", "{92F8F1A0-F731-4F35-965E-22B479B9ED16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A7FB5A3-CC7D-428E-921D-94C0242F3518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7FB5A3-CC7D-428E-921D-94C0242F3518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7FB5A3-CC7D-428E-921D-94C0242F3518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7FB5A3-CC7D-428E-921D-94C0242F3518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F8F1A0-F731-4F35-965E-22B479B9ED16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F8F1A0-F731-4F35-965E-22B479B9ED16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F8F1A0-F731-4F35-965E-22B479B9ED16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F8F1A0-F731-4F35-965E-22B479B9ED16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB335176-44A0-4AF3-A1C4-01193E401E1F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\delegate_temsilci\delegate_temsilci\bin\Debug\delegate_temsilci.exe.config
+C:\Users\SeBo-\source\repos\delegate_temsilci\delegate_temsilci\bin\Debug\delegate_temsilci.exe
+C:\Users\SeBo-\source\repos\delegate_temsilci\delegate_temsilci\bin\Debug\delegate_temsilci.pdb
+C:\Users\SeBo-\source\repos\delegate_temsilci\delegate_temsilci\obj\Debug\delegate_temsilci.csprojAssemblyReference.cache
+C:\Users\SeBo-\source\repos\delegate_temsilci\delegate_temsilci\obj\Debug\delegate_temsilci.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\delegate_temsilci\delegate_temsilci\obj\Debug\delegate_temsilci.exe
+C:\Users\SeBo-\source\repos\delegate_temsilci\delegate_temsilci\obj\Debug\delegate_temsilci.pdb

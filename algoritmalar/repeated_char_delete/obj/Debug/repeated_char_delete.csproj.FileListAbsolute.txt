@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\algoritmalar\repeated_char_delete\bin\Debug\repeated_char_delete.exe.config
+C:\Users\SeBo-\source\repos\algoritmalar\repeated_char_delete\bin\Debug\repeated_char_delete.exe
+C:\Users\SeBo-\source\repos\algoritmalar\repeated_char_delete\bin\Debug\repeated_char_delete.pdb
+C:\Users\SeBo-\source\repos\algoritmalar\repeated_char_delete\obj\Debug\repeated_char_delete.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\algoritmalar\repeated_char_delete\obj\Debug\repeated_char_delete.exe
+C:\Users\SeBo-\source\repos\algoritmalar\repeated_char_delete\obj\Debug\repeated_char_delete.pdb
+C:\Users\SeBo-\source\repos\algoritmalar\repeated_char_delete\obj\Debug\repeated_char_delete.csprojAssemblyReference.cache

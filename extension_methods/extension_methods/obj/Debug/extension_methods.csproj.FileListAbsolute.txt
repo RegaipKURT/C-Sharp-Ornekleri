@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\extension_methods\extension_methods\bin\Debug\extension_methods.exe.config
+C:\Users\SeBo-\source\repos\extension_methods\extension_methods\bin\Debug\extension_methods.exe
+C:\Users\SeBo-\source\repos\extension_methods\extension_methods\bin\Debug\extension_methods.pdb
+C:\Users\SeBo-\source\repos\extension_methods\extension_methods\obj\Debug\extension_methods.csprojAssemblyReference.cache
+C:\Users\SeBo-\source\repos\extension_methods\extension_methods\obj\Debug\extension_methods.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\extension_methods\extension_methods\obj\Debug\extension_methods.exe
+C:\Users\SeBo-\source\repos\extension_methods\extension_methods\obj\Debug\extension_methods.pdb

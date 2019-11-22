@@ -1,0 +1,10 @@
+C:\Users\SeBo-\source\repos\delegate_temsilci\delegate_form\bin\Debug\delegate_form.exe.config
+C:\Users\SeBo-\source\repos\delegate_temsilci\delegate_form\bin\Debug\delegate_form.exe
+C:\Users\SeBo-\source\repos\delegate_temsilci\delegate_form\bin\Debug\delegate_form.pdb
+C:\Users\SeBo-\source\repos\delegate_temsilci\delegate_form\obj\Debug\delegate_form.csprojAssemblyReference.cache
+C:\Users\SeBo-\source\repos\delegate_temsilci\delegate_form\obj\Debug\delegate_form.Properties.Resources.resources
+C:\Users\SeBo-\source\repos\delegate_temsilci\delegate_form\obj\Debug\delegate_form.csproj.GenerateResource.cache
+C:\Users\SeBo-\source\repos\delegate_temsilci\delegate_form\obj\Debug\delegate_form.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\delegate_temsilci\delegate_form\obj\Debug\delegate_form.exe
+C:\Users\SeBo-\source\repos\delegate_temsilci\delegate_form\obj\Debug\delegate_form.pdb
+C:\Users\SeBo-\source\repos\delegate_temsilci\delegate_form\obj\Debug\delegate_form.Giris.resources
