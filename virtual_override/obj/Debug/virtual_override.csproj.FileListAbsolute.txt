@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\OOP\virtual_override\bin\Debug\virtual_override.exe.config
+C:\Users\SeBo-\source\repos\OOP\virtual_override\bin\Debug\virtual_override.exe
+C:\Users\SeBo-\source\repos\OOP\virtual_override\bin\Debug\virtual_override.pdb
+C:\Users\SeBo-\source\repos\OOP\virtual_override\obj\Debug\virtual_override.csprojAssemblyReference.cache
+C:\Users\SeBo-\source\repos\OOP\virtual_override\obj\Debug\virtual_override.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\OOP\virtual_override\obj\Debug\virtual_override.exe
+C:\Users\SeBo-\source\repos\OOP\virtual_override\obj\Debug\virtual_override.pdb

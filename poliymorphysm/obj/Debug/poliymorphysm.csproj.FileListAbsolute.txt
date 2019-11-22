@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\OOP\poliymorphysm\bin\Debug\poliymorphysm.exe.config
+C:\Users\SeBo-\source\repos\OOP\poliymorphysm\bin\Debug\poliymorphysm.exe
+C:\Users\SeBo-\source\repos\OOP\poliymorphysm\bin\Debug\poliymorphysm.pdb
+C:\Users\SeBo-\source\repos\OOP\poliymorphysm\obj\Debug\poliymorphysm.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\OOP\poliymorphysm\obj\Debug\poliymorphysm.exe
+C:\Users\SeBo-\source\repos\OOP\poliymorphysm\obj\Debug\poliymorphysm.pdb
+C:\Users\SeBo-\source\repos\OOP\poliymorphysm\obj\Debug\poliymorphysm.csprojAssemblyReference.cache

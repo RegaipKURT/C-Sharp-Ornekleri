@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\OOP\ileri_seviye_sınıflar\bin\Debug\ileri_seviye_sınıflar.exe.config
+C:\Users\SeBo-\source\repos\OOP\ileri_seviye_sınıflar\bin\Debug\ileri_seviye_sınıflar.exe
+C:\Users\SeBo-\source\repos\OOP\ileri_seviye_sınıflar\bin\Debug\ileri_seviye_sınıflar.pdb
+C:\Users\SeBo-\source\repos\OOP\ileri_seviye_sınıflar\obj\Debug\ileri_seviye_sınıflar.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\OOP\ileri_seviye_sınıflar\obj\Debug\ileri_seviye_sınıflar.exe
+C:\Users\SeBo-\source\repos\OOP\ileri_seviye_sınıflar\obj\Debug\ileri_seviye_sınıflar.pdb
+C:\Users\SeBo-\source\repos\OOP\ileri_seviye_sınıflar\obj\Debug\ileri_seviye_sınıflar.csprojAssemblyReference.cache

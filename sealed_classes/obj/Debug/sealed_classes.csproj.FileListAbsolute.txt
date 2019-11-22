@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\OOP\sealed_classes\bin\Debug\sealed_classes.exe.config
+C:\Users\SeBo-\source\repos\OOP\sealed_classes\bin\Debug\sealed_classes.exe
+C:\Users\SeBo-\source\repos\OOP\sealed_classes\bin\Debug\sealed_classes.pdb
+C:\Users\SeBo-\source\repos\OOP\sealed_classes\obj\Debug\sealed_classes.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\OOP\sealed_classes\obj\Debug\sealed_classes.exe
+C:\Users\SeBo-\source\repos\OOP\sealed_classes\obj\Debug\sealed_classes.pdb
+C:\Users\SeBo-\source\repos\OOP\sealed_classes\obj\Debug\sealed_classes.csprojAssemblyReference.cache

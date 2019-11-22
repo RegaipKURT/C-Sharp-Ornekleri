@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\OOP\static\bin\Debug\@static.exe.config
+C:\Users\SeBo-\source\repos\OOP\static\bin\Debug\@static.exe
+C:\Users\SeBo-\source\repos\OOP\static\bin\Debug\@static.pdb
+C:\Users\SeBo-\source\repos\OOP\static\obj\Debug\static_keyword.csprojAssemblyReference.cache
+C:\Users\SeBo-\source\repos\OOP\static\obj\Debug\static_keyword.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\OOP\static\obj\Debug\@static.exe
+C:\Users\SeBo-\source\repos\OOP\static\obj\Debug\@static.pdb

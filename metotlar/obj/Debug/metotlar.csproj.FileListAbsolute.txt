@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\OOP\metotlar\bin\Debug\metotlar.exe.config
+C:\Users\SeBo-\source\repos\OOP\metotlar\bin\Debug\metotlar.exe
+C:\Users\SeBo-\source\repos\OOP\metotlar\bin\Debug\metotlar.pdb
+C:\Users\SeBo-\source\repos\OOP\metotlar\obj\Debug\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\OOP\metotlar\obj\Debug\metotlar.exe
+C:\Users\SeBo-\source\repos\OOP\metotlar\obj\Debug\metotlar.pdb
+C:\Users\SeBo-\source\repos\OOP\metotlar\obj\Debug\metotlar.csprojAssemblyReference.cache

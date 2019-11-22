@@ -1,0 +1,9 @@
+C:\Users\SeBo-\source\repos\OOP\interface_kullanımı\bin\Debug\netstandard2.0\interface_kullanımı.deps.json
+C:\Users\SeBo-\source\repos\OOP\interface_kullanımı\bin\Debug\netstandard2.0\interface_kullanımı.dll
+C:\Users\SeBo-\source\repos\OOP\interface_kullanımı\bin\Debug\netstandard2.0\interface_kullanımı.pdb
+C:\Users\SeBo-\source\repos\OOP\interface_kullanımı\obj\Debug\netstandard2.0\interface_kullanımı.csprojAssemblyReference.cache
+C:\Users\SeBo-\source\repos\OOP\interface_kullanımı\obj\Debug\netstandard2.0\interface_kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\OOP\interface_kullanımı\obj\Debug\netstandard2.0\interface_kullanımı.AssemblyInfoInputs.cache
+C:\Users\SeBo-\source\repos\OOP\interface_kullanımı\obj\Debug\netstandard2.0\interface_kullanımı.AssemblyInfo.cs
+C:\Users\SeBo-\source\repos\OOP\interface_kullanımı\obj\Debug\netstandard2.0\interface_kullanımı.dll
+C:\Users\SeBo-\source\repos\OOP\interface_kullanımı\obj\Debug\netstandard2.0\interface_kullanımı.pdb

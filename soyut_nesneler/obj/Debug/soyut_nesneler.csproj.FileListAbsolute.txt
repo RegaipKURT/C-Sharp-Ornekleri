@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\OOP\soyut_nesneler\bin\Debug\soyut_nesneler.exe.config
+C:\Users\SeBo-\source\repos\OOP\soyut_nesneler\bin\Debug\soyut_nesneler.exe
+C:\Users\SeBo-\source\repos\OOP\soyut_nesneler\bin\Debug\soyut_nesneler.pdb
+C:\Users\SeBo-\source\repos\OOP\soyut_nesneler\obj\Debug\soyut_nesneler.csprojAssemblyReference.cache
+C:\Users\SeBo-\source\repos\OOP\soyut_nesneler\obj\Debug\soyut_nesneler.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\OOP\soyut_nesneler\obj\Debug\soyut_nesneler.exe
+C:\Users\SeBo-\source\repos\OOP\soyut_nesneler\obj\Debug\soyut_nesneler.pdb

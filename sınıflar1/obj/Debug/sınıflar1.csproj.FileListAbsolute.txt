@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\OOP\sınıflar1\bin\Debug\sınıflar1.exe.config
+C:\Users\SeBo-\source\repos\OOP\sınıflar1\bin\Debug\sınıflar1.exe
+C:\Users\SeBo-\source\repos\OOP\sınıflar1\bin\Debug\sınıflar1.pdb
+C:\Users\SeBo-\source\repos\OOP\sınıflar1\obj\Debug\sınıflar1.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\OOP\sınıflar1\obj\Debug\sınıflar1.exe
+C:\Users\SeBo-\source\repos\OOP\sınıflar1\obj\Debug\sınıflar1.pdb
+C:\Users\SeBo-\source\repos\OOP\sınıflar1\obj\Debug\sınıflar1.csprojAssemblyReference.cache

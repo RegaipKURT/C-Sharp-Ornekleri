@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\OOP\kalıtım_miras\bin\Debug\kalıtım_miras.exe.config
+C:\Users\SeBo-\source\repos\OOP\kalıtım_miras\bin\Debug\kalıtım_miras.exe
+C:\Users\SeBo-\source\repos\OOP\kalıtım_miras\bin\Debug\kalıtım_miras.pdb
+C:\Users\SeBo-\source\repos\OOP\kalıtım_miras\obj\Debug\kalıtım_miras.csprojAssemblyReference.cache
+C:\Users\SeBo-\source\repos\OOP\kalıtım_miras\obj\Debug\kalıtım_miras.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\OOP\kalıtım_miras\obj\Debug\kalıtım_miras.exe
+C:\Users\SeBo-\source\repos\OOP\kalıtım_miras\obj\Debug\kalıtım_miras.pdb
