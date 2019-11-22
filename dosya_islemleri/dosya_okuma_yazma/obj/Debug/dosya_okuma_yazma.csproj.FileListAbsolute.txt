@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\dosya_islemleri\dosya_okuma_yazma\bin\Debug\dosya_okuma_yazma.exe.config
+C:\Users\SeBo-\source\repos\dosya_islemleri\dosya_okuma_yazma\bin\Debug\dosya_okuma_yazma.exe
+C:\Users\SeBo-\source\repos\dosya_islemleri\dosya_okuma_yazma\bin\Debug\dosya_okuma_yazma.pdb
+C:\Users\SeBo-\source\repos\dosya_islemleri\dosya_okuma_yazma\obj\Debug\dosya_okuma_yazma.csprojAssemblyReference.cache
+C:\Users\SeBo-\source\repos\dosya_islemleri\dosya_okuma_yazma\obj\Debug\dosya_okuma_yazma.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\dosya_islemleri\dosya_okuma_yazma\obj\Debug\dosya_okuma_yazma.exe
+C:\Users\SeBo-\source\repos\dosya_islemleri\dosya_okuma_yazma\obj\Debug\dosya_okuma_yazma.pdb
