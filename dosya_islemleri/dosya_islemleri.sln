@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dosya_okuma_yazma", "dosya_okuma_yazma\dosya_okuma_yazma.csproj", "{247581B6-474D-4030-A5C0-C607E3D2E8B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dosya_islemleri", "dosya_okuma_yazma\dosya_islemleri.csproj", "{247581B6-474D-4030-A5C0-C607E3D2E8B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlasorIslemleri", "KlasorIslemleri\KlasorIslemleri.csproj", "{277DBFA1-6EED-4713-A28A-B290A04271EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{247581B6-474D-4030-A5C0-C607E3D2E8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{247581B6-474D-4030-A5C0-C607E3D2E8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{247581B6-474D-4030-A5C0-C607E3D2E8B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{277DBFA1-6EED-4713-A28A-B290A04271EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{277DBFA1-6EED-4713-A28A-B290A04271EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{277DBFA1-6EED-4713-A28A-B290A04271EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{277DBFA1-6EED-4713-A28A-B290A04271EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

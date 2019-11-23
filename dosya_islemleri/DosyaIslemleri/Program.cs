@@ -11,12 +11,18 @@ namespace dosya_okuma_yazma
     {
         static void Main(string[] args)
         {
-            dosyayaYaz();
-            dosyadanOku();
+            DosyayaYaz("new.txt"); //default olarak bin/debug içinde işlem yapar
+            DosyadanOku("new.txt");
+            Console.WriteLine(DosyaKontrol("new.txt"));
+            DosyaSil("new.txt");
+            Console.WriteLine(DosyaKontrol("new.txt"));
+
+
+            Console.ReadLine();
         }
-        private static void dosyayaYaz()
+        private static void DosyayaYaz(string dosya)
         {
-            string dosya_yolu = @"C:\Users\SeBo-\Desktop\kayıt.py";
+            string dosya_yolu = dosya;
             //İşlem yapacağımız dosyanın yolunu belirtiyoruz.
             FileStream fs = new FileStream(dosya_yolu, FileMode.OpenOrCreate, FileAccess.Write);
             //Bir file stream nesnesi oluşturuyoruz. 1.parametre dosya yolunu,
@@ -24,8 +30,8 @@ namespace dosya_okuma_yazma
             //3.parametre dosyaya erişimin veri yazmak için olacağını gösterir.
             StreamWriter sw = new StreamWriter(fs);
             //Yazma işlemi için bir StreamWriter nesnesi oluşturduk.
-            sw.WriteLine("import tensorflow as tf");
-            sw.WriteLine("import pandas as pd\nimportnumpy as np\nimport matplotlib.pyplot as plt");
+            sw.WriteLine("1. satır: merhaba");
+            sw.WriteLine("2. satır: dünya");
             //Dosyaya ekleyeceğimiz iki satırlık yazıyı WriteLine() metodu ile yazacağız.
             sw.Flush();
             //Veriyi tampon bölgeden dosyaya aktardık.
@@ -33,9 +39,9 @@ namespace dosya_okuma_yazma
             fs.Close();
             //İşimiz bitince kullandığımız nesneleri iade ettik.
         }
-        public static void dosyadanOku()
+        public static void DosyadanOku(string dosya)
         {
-            string dosya_yolu = @"C:\Users\SeBo-\Desktop\Filmler.txt";
+            string dosya_yolu = dosya;
             //Okuma işlem yapacağımız dosyanın yolunu belirtiyoruz.
             FileStream fs = new FileStream(dosya_yolu, FileMode.Open, FileAccess.Read);
             //Bir file stream nesnesi oluşturuyoruz. 1.parametre dosya yolunu,
@@ -54,7 +60,32 @@ namespace dosya_okuma_yazma
             sw.Close();
             fs.Close();
             //İşimiz bitince kullandığımız nesneleri iade ettik.
-            Console.ReadLine();
         }
+
+        public static string DosyaKontrol(string dosyaadi)
+        {
+            if (File.Exists(dosyaadi)) { return "Dosya bulundu."; }
+
+            else { return "Dosya mevcut değil."; }
+                
+        }
+
+        public static void DosyaSil(string dosyaadi)
+        {
+            File.Delete(dosyaadi);
+            //Belirtilen dosyayı siler.
+        }
+        public static void DosyaTasi(string dosyaadi, string tasimayolu)
+        {
+            File.Move(dosyaadi, tasimayolu);
+            //1.parametrede adı geçen dosya, ikinci parametrede belirtilen adrese taşınır.
+        }
+
+        public static void DosyaKopyala(string dosyaadi, string kopyalamayolu)
+        {
+            File.Copy(dosyaadi, kopyalamayolu);
+            //1.parametrede adı geçen dosya, ikinci parametrede belirtilen adrese kopyalanır.
+        }
+
     }
 }

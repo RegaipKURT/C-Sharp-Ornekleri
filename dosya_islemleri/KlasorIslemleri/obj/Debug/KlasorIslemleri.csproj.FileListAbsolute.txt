@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\dosya_islemleri\KlasorIslemleri\bin\Debug\KlasorIslemleri.exe.config
+C:\Users\SeBo-\source\repos\dosya_islemleri\KlasorIslemleri\bin\Debug\KlasorIslemleri.exe
+C:\Users\SeBo-\source\repos\dosya_islemleri\KlasorIslemleri\bin\Debug\KlasorIslemleri.pdb
+C:\Users\SeBo-\source\repos\dosya_islemleri\KlasorIslemleri\obj\Debug\KlasorIslemleri.csprojAssemblyReference.cache
+C:\Users\SeBo-\source\repos\dosya_islemleri\KlasorIslemleri\obj\Debug\KlasorIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\dosya_islemleri\KlasorIslemleri\obj\Debug\KlasorIslemleri.exe
+C:\Users\SeBo-\source\repos\dosya_islemleri\KlasorIslemleri\obj\Debug\KlasorIslemleri.pdb
