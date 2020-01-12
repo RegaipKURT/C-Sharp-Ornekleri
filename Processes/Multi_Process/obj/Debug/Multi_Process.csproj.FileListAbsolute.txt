@@ -1,0 +1,7 @@
+C:\Users\SeBo-\source\repos\Processes\Multi_Process\bin\Debug\Multi_Process.exe.config
+C:\Users\SeBo-\source\repos\Processes\Multi_Process\bin\Debug\Multi_Process.exe
+C:\Users\SeBo-\source\repos\Processes\Multi_Process\bin\Debug\Multi_Process.pdb
+C:\Users\SeBo-\source\repos\Processes\Multi_Process\obj\Debug\Multi_Process.csprojAssemblyReference.cache
+C:\Users\SeBo-\source\repos\Processes\Multi_Process\obj\Debug\Multi_Process.csproj.CoreCompileInputs.cache
+C:\Users\SeBo-\source\repos\Processes\Multi_Process\obj\Debug\Multi_Process.exe
+C:\Users\SeBo-\source\repos\Processes\Multi_Process\obj\Debug\Multi_Process.pdb
